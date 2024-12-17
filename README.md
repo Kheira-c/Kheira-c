@@ -33,6 +33,8 @@ linkedin.com/in/kheira-c-946a62215
 
 - [LinkedIn] linkedin.com/in/kheira-c-946a62215
 
+## CV INTERACTIF 
+![cv](https://github.com/Kheira-c/images/blob/main/CV%20INTERACTIF%20GITHUB.jpg)
 
 N'hésitez pas à explorer mes dépôts et à me contacter pour discuter ou collaborer ! 🚀
 
