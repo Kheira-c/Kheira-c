@@ -12,7 +12,6 @@ Bonjour ! Je suis CHAIB KHEIRA, une business analyst  passionnée par la data . 
 linkedin.com/in/kheira-c-946a62215
 
 ## 💻 Projets et Contributions
-## 💻 Projets et Contributions
 
 ### 🔥 Projets phares
 
