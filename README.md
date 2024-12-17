@@ -24,7 +24,7 @@ linkedin.com/in/kheira-c-946a62215
 ---
 ## 🛠️ Compétences techniques
 
-- **Langages de programmation** :  PYTHON, R, SQL,LANGAGE DAX[ex. JavaScript, Python, C++
+- **Langages de programmation** :  PYTHON, R, SQL,LANGAGE DAX
 - **Frameworks et bibliothèques** : Pandas, Matplotlib, Seaborn, Power BI.
 - **Outils et plateformes** : GITHUB
 ## 
