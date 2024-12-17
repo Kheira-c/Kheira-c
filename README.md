@@ -5,7 +5,7 @@
 Bonjour ! Je suis CHAIB KHEIRA, une business analyst  passionnée par la data . J'aime résoudre des problèmes complexes, apprendre de nouvelles technologies, et collaborer sur des projets intéressants.
 
 
- 🌍 Basé(e) à :  Paris, France
+ 🌍 Basée à :  Paris, France
 - 🎓 Formation : Openclassrooms-Business Intelligence Analyst
 - 🌱 Actuellement en train d'apprendre : LE PYTHON,SQL ET LANGAGE M.
 - ✉️ Contact : 
