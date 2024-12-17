@@ -16,10 +16,8 @@ linkedin.com/in/kheira-c-946a62215
 ### 🔥 Projets phares
 
 - **[Projet 6](https://github.com/Kheira-c/PYTHON/blob/main/CHAIB_KHEIRA_2_PRESENTATION_102024.pptx)**
-  - 
  
-- **[Projet 8](PYTHON/Chaibeddera_kheira_Optimisez_la_gestion&nettoyezles_données_du_stock_d'une_boutique.zip at main · Kheira-c/PYTHON![image](https://github.com/user-attachments/assets/2dcf0c7e-0b80-4d78-b76c-13b24f3c1d69)
-)**
+- **[Projet 8](https://github.com/user-attachments/assets/2dcf0c7e-0b80-4d78-b76c-13b24f3c1d69)**
   
 ---
 ## 🛠️ Compétences techniques
