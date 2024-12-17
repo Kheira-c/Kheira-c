@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**Kheira-c/Kheira-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 À propos de moi
 
-Here are some ideas to get you started:
+Bonjour ! Je suis CHAIB KHEIRA, une business analyst  passionnée par la data . J'aime résoudre des problèmes complexes, apprendre de nouvelles technologies, et collaborer sur des projets intéressants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+
+ 🌍 Basé(e) à :  Paris, France
+- 🎓 Formation : Openclassrooms-Business Intelligence Analyst
+- 🌱 Actuellement en train d'apprendre : LE PYTHON,SQL ET LANGAGE M.
+- ✉️ Contact : 
+linkedin.com/in/kheira-c-946a62215
+
+## 💻 Projets et Contributions
+## 💻 Projets et Contributions
+
+### 🔥 Projets phares
+
+- **[Nom du Projet 1](lien_vers_projet)**
+  - Description courte du projet (technologies utilisées, objectif, etc.).
+ 
+- **[Nom du Projet 2](lien_vers_projet)**
+  - Description courte du projet.
+
+---
+## 🛠️ Compétences techniques
+
+- **Langages de programmation** :  PYTHON, R, SQL,LANGAGE DAX[ex. JavaScript, Python, C++
+- **Frameworks et bibliothèques** : Pandas, Matplotlib, Seaborn, Power BI.
+- **Outils et plateformes** : GITHUB
+## 
+## 🤝 Me rejoindre
+
+
+- [LinkedIn] linkedin.com/in/kheira-c-946a62215
+
+
+N'hésitez pas à explorer mes dépôts et à me contacter pour discuter ou collaborer ! 🚀
+![image](https://github.com/user-attachments/assets/0c6ad970-d871-4ae8-9035-c59a16b95e47)
